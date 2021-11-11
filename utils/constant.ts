@@ -1,0 +1,1 @@
+export const COUNTRY_LIST: Array<string> = ['Australia',' United States', 'Uruguay', 'Uzbekistan']
